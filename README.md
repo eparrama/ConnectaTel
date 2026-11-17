@@ -1,4 +1,4 @@
-# proyecto_7 ConnectaTel
+# S7 ConnectaTel
 Objetivo del Proyecto: identificar patrones de uso, detectar comportamientos atípicos y comprender qué segmentos de clientes muestran necesidades diferenciadas, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario.
 Data Sets utilizados: plans.csv: los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra).
 users_latam.csv: información de clientes: edad, ciudad, fecha de registro, plan contratado.
