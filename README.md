@@ -32,5 +32,5 @@ Para el segmento de adultos mayores, diseñar también programas de lealtad y me
 Diseñar e implementar una estrategia para promover planes más atractivos para que los usuarios del segmento de uso medio pasen a uso alto en donde se pueda cobrar más por dichos planes  
 Analizar si el segmento de bajo uso puede caer en la pérdida de usuarios y de ser así analizar la posibilidad de crear planes alternativos que ayuden a retener a dichos clientes y por qué no a subir de nivel al medio  
 
-**Ejecución del Notebook:** Ingresar a Google Colab, abrir archivo: "S7 Version-Estudiante-Project-ConnectaTel.ipynb", <Ejecutar todo>
+**Ejecución del Notebook:** Ingresar a Google Colab, abrir archivo: "S7 Project-ConnectaTel.ipynb", <Ejecutar todo>
 Los Data Sets arriba mencionados ya fueron cargados previamente también en Google Colab y la ruta de acceso ya fue cambiada para su ejecución
